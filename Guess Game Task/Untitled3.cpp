@@ -59,7 +59,7 @@ int guess_game::guess()
 
 void guess_game::game()
 {
-cout<<number;
+
 	if(guess_number==number)
 	{
 		cout<<"Correct answer!" <<endl;
